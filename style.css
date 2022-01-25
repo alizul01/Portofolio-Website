@@ -1,0 +1,23 @@
+/* Import font poppins */
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
+
+/* Use poppins font all */
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #cbd9e9;
+}
+#project {
+  background-color: #cbd9e9;
+}
+
+footer {
+  background-color: #cbd9e9;
+}
+
+section {
+  padding-top: 6rem;
+}
